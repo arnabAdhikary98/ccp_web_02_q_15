@@ -19,6 +19,14 @@ A modern, responsive personal portfolio website built with HTML5, CSS3, and Java
 - [Font Awesome](https://fontawesome.com/) (for icons)
 - Google Fonts (Poppins)
 
+## Screenshots
+
+### Desktop View
+![Portfolio Homepage - Desktop](images/portfolio_homepage.png)
+
+### Mobile View
+![Portfolio Homepage - Mobile](images/portfolio_mobile.png)
+
 ## Getting Started
 1. **Clone or Download** this repository.
 2. Open `index.html` in your browser.
@@ -32,7 +40,9 @@ A modern, responsive personal portfolio website built with HTML5, CSS3, and Java
 └── images/
     ├── my_photo.jpg
     ├── target_homepage.png
-    └── big_basket_clone_homepage.png
+    ├── big_basket_clone_homepage.png
+    ├── portfolio_homepage.png
+    └── portfolio_mobile.png
 ```
 
 ## Customization
